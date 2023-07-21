@@ -1,0 +1,108 @@
+button {
+  text-align: center;
+  background-color: #1492e6;
+  border-radius: 33px;
+  border: none;
+  color: white;
+  padding: 9px 28px;
+}
+
+/* Banner Star */
+
+.custom-image img {
+  width: 509px;
+  height: 500px;
+}
+@media (max-width: 576px) {
+  .custom-image img {
+    width: 300px;
+    height: 250px;
+  }
+}
+.custom-image {
+  text-align: center;
+}
+
+/* Banner End */
+
+ /* Hero Star  */
+
+ .card{
+  border-radius: 21px;
+background: #e0e0e0;
+box-shadow:  -2px 5px 10px #d7d7d7,
+             5px -5px 10px #e9e9e9;
+             border: none;
+}
+
+/* Hero End  */
+
+/* Card Star */
+
+.cards img {
+  width: 244px;
+  height: 188px;
+}
+
+/* Card End */
+
+/* Pricing Star  */
+
+.pricing {
+  margin-top: 200px;
+}
+@media (max-width: 576px) {
+  .pricing {
+    margin-top: 25px;
+  }
+}
+
+/* Pricing End  */
+
+/* Review Star */
+.review img {
+  height: 53px;
+  width: 52px;
+  /* margin-bottom: 60px; */
+}
+.reviews img {
+  width: 18px;
+  height: 18px;
+}
+
+.texts {
+  margin-left: -65px;
+}
+@media (max-width: 576px) {
+  .texts {
+    margin-left: -45px;
+  }
+}
+
+.box {
+  border-radius: 26px;
+  background: #e0e0e0;
+  box-shadow: -25px 25px 51px #cccccc, 25px -25px 51px #f4f4f4;
+}
+
+/* Review End */
+
+/* Sponesor Star  */
+.sponcor img {
+  width: 90px;
+  height: 90px;
+}
+
+ /* Sponesor End  */
+
+ /* Footer Star */
+footer {
+  height: 200px;
+  background-color: black;
+}
+
+/* .footer-text {
+  z-index: 999;
+} */
+
+ /* Footer End */
